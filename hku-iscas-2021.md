@@ -1,4 +1,4 @@
-# HKU ISCAS 2021 Event Schedule
+## Event Schedule
 
 | Event and Title | Note | Estimated Time Period |
 | :---: | :---: | :---: |
