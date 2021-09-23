@@ -1,8 +1,8 @@
 # HKU ISCAS 2021 Event Schedule
-First Header | Second Header
+<!-- First Header | Second Header
 ------------ | -------------
 Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+Content in the first column | Content in the second column -->
 <!-- | Event and Title | Note | Estimated Time Period |
 | :-: | :-: | :-: |
 | <b>Launching session: leaders' speeches (10:00am - 10:30am) </b> | <b>Host: Dr. Heming Cui. Online chair for all sessions: Tianxiang Shen. ZOOM ID: 302 805 8402 (password: A16A8y).</b> |  |
