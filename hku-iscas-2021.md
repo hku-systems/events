@@ -1,4 +1,3 @@
-## Event Schedule
 
 | Event and Title | Note | Estimated Time Period |
 | :---: | :---: | :---: |
