@@ -2,6 +2,14 @@ layout: page
 title: "hku-iscas-2021"
 permalink: /events/hku-iscas-2021
 
-theme: jekyll-theme-cayman
-
+lsi: false
+safe: true
+incremental: false
+highlighter: rouge
 markdown: kramdown
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+theme: jekyll-theme-cayman
