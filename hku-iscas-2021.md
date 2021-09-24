@@ -15,10 +15,10 @@
 | Real-world X-ray Security Inspection | Speaker: Phd. Boying Wang (PhD student of Dr. Yanjun Wu) | 12:30-1pm (about 23minutes talk, 7mininutes Q&A) |
 | <b> Session 2: IOT & Robotics & NLP (2pm - 4:30pm)</b> | <b>Session co-chairs (HKU: Fanxin Li, Shengliang Deng; ISCAS: Heng Zhang, Libo Zhang)</b> |  |
 | High Performance Computing Optimization for Open-source Chips and Co-processors | Speaker: Dr. Heng Zhang | 2-2:30pm (about 23minutes talk, 7mininutes Q&A) |
-| Wireless AI for the Internet of Things | Speaker: Dr. Chenshu Wu | 2:30-3pm (about 23minutes talk, 7mininutes Q&A) |
+| Autononous robots: algorithms, mechanism, and sensors | Speaker: Dr. Jia Pan | 2:30-3pm (about 23minutes talk, 7mininutes Q&A) |
 | Robot Navigation in Unknown and Complex Environments | Speaker: Dr. Peng Li | 3-3:30pm (about 23minutes talk, 7mininutes Q&A) |
 | Random Feature Attention | Speaker: Dr. Lingpeng Kong | 3:30-4pm (about 23minutes talk, 7mininutes Q&A) |
-| Autononous robots: algorithms, mechanism, and sensors | Speaker: Dr. Jia Pan | 4-4:30pm (about 23minutes talk, 7mininutes Q&A) |
+| Wireless AI for the Internet of Things | Speaker: Dr. Chenshu Wu | 4-4:30pm (about 23minutes talk, 7mininutes Q&A) |
 | <b>Session 3: System & Network & Software (4:30pm - 7pm)</b> | <b>Session co-chairs (HKU: Jianyu Jiang, Ji Qi; ISCAS: JingZheng Wu, Jiageng Yu)</b> |  |
 | Open-source Software Supplychains and Key Security Technology Study | Speaker: Xu Duan (Master student of Dr. Jingzheng Wu) | 4:30-5pm (about 23minutes talk, 7mininutes Q&A) |
 | Near-optimal Topology-adaptive Parameter Synchronization in Distributed DNN Training | Speaker: Zhe Zhang (PhD student of Prof. Chuan Wu) | 5-5:30pm (about 23minutes talk, 7mininutes Q&A) |
