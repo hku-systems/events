@@ -27,4 +27,4 @@
 | Achieving Low Tail-latency and High Scalability for Serializable Transactions in Edge Computing | Speaker: Haoze Song (MPhil student of Heming Cui) | 6:30-7pm (about 23minutes talk, 7mininutes Q&A) |
 
 
-#### In case of any technical issues or enquiries about access to the event, please feel free to contact **Xiuxian Guan <guanxx@connect.hku.hk>** or **Tianxiang Shen <stx635@connect.hku.hk>**.
+#### In case of any technical issues or enquiries about access to the event, please feel free to contact **Xiuxian Guan (<guanxx@connect.hku.hk>)** or **Tianxiang Shen (<stx635@connect.hku.hk>)**.
