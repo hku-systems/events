@@ -25,3 +25,6 @@
 | BigDataBench: Benchmarking, Measuring, and Optimizing | Speaker: Dr. Chen Zheng | 5:30-6pm (about 23minutes talk, 7mininutes Q&A) |
 | OpenHarmony for RISC-V | Speaker: Yang Tai | 6-6:30pm (about 23minutes talk, 7mininutes Q&A) |
 | Achieving Low Tail-latency and High Scalability for Serializable Transactions in Edge Computing | Speaker: Haoze Song (MPhil student of Heming Cui) | 6:30-7pm (about 23minutes talk, 7mininutes Q&A) |
+
+
+#### In case of any technical enquiry or about access to the event, please feel free to contact Xiuxian Guan (guanxx@connect.hku.hk) and Tianxiang Shen (stx635@connect.hku.hk).
