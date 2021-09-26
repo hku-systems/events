@@ -1,9 +1,9 @@
 
 | Event and Title | Note | Estimated Time Period |
 | :---: | :---: | :---: |
-| <b>Launching session: leaders' speeches (10:00am - 10:30am) </b> | <b>Host: Dr. Heming Cui.  <br> Online chair for all sessions: Tianxiang Shen.  <br>  ZOOM ID: 302 805 8402 (password: A16A8y).</b> |  |
+| <b>Launching session: leaders' speeches (10:00am - 10:30am) </b> | <b>Host: Dr. Heming Cui.  <br> Online chair for all sessions: Xiuxian Guan.  <br>  ZOOM ID: 302 805 8402 (password: A16A8y).</b> |  |
 | HKU Engineering Associate Dean's (Prof. Yuguo Li) speech | Confirmed | About 5 to 6minutes |
-| ISCAS leader's speech | Confirmed | About 5 to 6minutes |
+| ISCAS leader's (Dr. Chen Zhao) speech | Confirmed | About 5 to 6minutes |
 | Prof. Yanjun Wu's speech | Confirmed | About 5 to 6minutes |
 | Prof. Francis Lau's speech | Confirmed | About 5 to 6minutes |
 | Online Group Photo |  | About 2minutes |
