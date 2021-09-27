@@ -1,9 +1,9 @@
 
 | Event and Title | Note | Estimated Time Period |
 | :---: | :---: | :---: |
-| <b>Launching session: leaders' speeches (10:00am - 10:30am) </b> | <b>Host: Dr. Heming Cui.  <br> Online chair for all sessions: Tianxiang Shen.  <br>  ZOOM ID: 302 805 8402 (password: A16A8y).</b> |  |
-| HKU Engineering Associate dean (Prof. Yuguo Li) speech | Confirmed | About 5 to 6minutes |
-| ISCAS leader's speech | Confirmed | About 5 to 6minutes |
+| <b>Launching session: leaders' speeches (10:00am - 10:30am) </b> | <b>Host: Dr. Heming Cui.  <br> Online chair for all sessions: Xiuxian Guan.  <br>  ZOOM ID: 302 805 8402 (password: A16A8y).</b> |  |
+| HKU Engineering Associate Dean's (Prof. Yuguo Li) speech | Confirmed | About 5 to 6minutes |
+| ISCAS leader's (Dr. Chen Zhao) speech | Confirmed | About 5 to 6minutes |
 | Prof. Yanjun Wu's speech | Confirmed | About 5 to 6minutes |
 | Prof. Francis Lau's speech | Confirmed | About 5 to 6minutes |
 | Online Group Photo |  | About 2minutes |
@@ -25,3 +25,6 @@
 | BigDataBench: Benchmarking, Measuring, and Optimizing | Speaker: Dr. Chen Zheng | 5:30-6pm (about 23minutes talk, 7mininutes Q&A) |
 | OpenHarmony for RISC-V | Speaker: Yang Tai | 6-6:30pm (about 23minutes talk, 7mininutes Q&A) |
 | Achieving Low Tail-latency and High Scalability for Serializable Transactions in Edge Computing | Speaker: Haoze Song (MPhil student of Heming Cui) | 6:30-7pm (about 23minutes talk, 7mininutes Q&A) |
+
+
+#### In case of any technical issues or enquiries about access to the event, please feel free to contact **Xiuxian Guan (<guanxx@connect.hku.hk>)** or **Tianxiang Shen (<stx635@connect.hku.hk>)**.
