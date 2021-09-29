@@ -8,8 +8,8 @@
 | Prof. Francis Lau's speech | Confirmed | About 5 to 6minutes |
 | Online Group Photo |  | About 2minutes |
 | <b>Session 1: AI & CV (10:30am - 1pm)</b> | <b> Session co-chairs (HKU: Yuhao Qing, Haowen Pi; ISCAS: Ling Li, Mingjie Xing) </b> |  |
-| [vPipe: A Virtualized Acceleration System for Achieving Efficient and Scalable Pipeline Parallel DNN Training](files/1-Shixiong%20Zhao.pptx) | Speaker: Shixiong Zhao (PhD student of Dr. Heming Cui) | 10:30-11am (about 23minutes talk, 7mininutes Q&A) |
-| [MLIR: Introduction, Practice, and Thoughts](files/2-Hongbin-Zhang-MLIR.pdf) | Speaker: Hongbin Zhang (PhD student of Dr. Yanjun Wu) | 11-11:30am (about 23minutes talk, 7mininutes Q&A) |
+| vPipe: A Virtualized Acceleration System for Achieving Efficient and Scalable Pipeline Parallel DNN Training | Speaker: Shixiong Zhao (PhD student of Dr. Heming Cui) | 10:30-11am (about 23minutes talk, 7mininutes Q&A) |
+| MLIR: Introduction, Practice, and Thoughs | Speaker: Hongbin Zhang (PhD student of Dr. Yanjun Wu) | 11-11:30am (about 23minutes talk, 7mininutes Q&A) |
 | Dynamic Quantization for Deep Neural Network | Speaker: Dr. Ping Luo | 11:30-12pm (about 23minutes talk, 7mininutes Q&A) |
 | Deep Pulse Neural Network Training Algorithms based on Parameter Initilization | Speaker: Dr. Ruizhi Chen | 12-12:30pm (about 23minutes talk, 7mininutes Q&A) |
 | Real-world X-ray Security Inspection | Speaker: Phd. Boying Wang (PhD student of Dr. Yanjun Wu) | 12:30-1pm (about 23minutes talk, 7mininutes Q&A) |
