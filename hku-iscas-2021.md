@@ -9,7 +9,7 @@
 | Online Group Photo |  | About 2minutes |
 | <b>Session 1: AI & CV (10:30am - 1pm)</b> | <b> Session co-chairs (HKU: Yuhao Qing, Haowen Pi; ISCAS: Ling Li, Mingjie Xing) </b> |  |
 | [vPipe: A Virtualized Acceleration System for Achieving Efficient and Scalable Pipeline Parallel DNN Training](iscas2021/1-Shixiong%20Zhao.pptx) | Speaker: Shixiong Zhao (PhD student of Dr. Heming Cui) | 10:30-11am (about 23minutes talk, 7mininutes Q&A) |
-| [MLIR: Introduction, Practice, and Thoughts](iscas2021/2-Hongbin-Zhang-MLIR.pdf) | Speaker: Hongbin Zhang (PhD student of Dr. Yanjun Wu) | 11-11:30am (about 23minutes talk, 7mininutes Q&A) |
+| [MLIR: Introduction, Practice, and Thoughts](iscas2021/1-2-Hongbin%20Zhang%20MLIR.pdf)) | Speaker: Hongbin Zhang (PhD student of Dr. Yanjun Wu) | 11-11:30am (about 23minutes talk, 7mininutes Q&A) |
 | Dynamic Quantization for Deep Neural Network | Speaker: Dr. Ping Luo | 11:30-12pm (about 23minutes talk, 7mininutes Q&A) |
 | [Deep Pulse Neural Network Training Algorithms based on Parameter Initilization](iscas2021/1-4-Chen%20Ruizhi.mp4) | Speaker: Dr. Ruizhi Chen | 12-12:30pm (about 23minutes talk, 7mininutes Q&A) |
 | [Real-world X-ray Security Inspection](iscas2021/1-5-Wang%20Boying.mp4) | Speaker: Phd. Boying Wang (PhD student of Dr. Yanjun Wu) | 12:30-1pm (about 23minutes talk, 7mininutes Q&A) |
