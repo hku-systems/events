@@ -10,7 +10,7 @@
 | <b>Session 1: AI & CV (10:30am - 1pm)</b> | <b> Session co-chairs (HKU: Yuhao Qing, Haowen Pi; ISCAS: Ling Li, Mingjie Xing) </b> |  |
 | [vPipe: A Virtualized Acceleration System for Achieving Efficient and Scalable Pipeline Parallel DNN Training](iscas2021/1-Shixiong%20Zhao.pptx) | Speaker: Shixiong Zhao (PhD student of Dr. Heming Cui) | 10:30-11am (about 23minutes talk, 7mininutes Q&A) |
 | [MLIR: Introduction, Practice, and Thoughts](iscas2021/1-2-Hongbin%20Zhang%20MLIR.pdf)) | Speaker: Hongbin Zhang (PhD student of Dr. Yanjun Wu) | 11-11:30am (about 23minutes talk, 7mininutes Q&A) |
-| Dynamic Quantization for Deep Neural Network | Speaker: Dr. Ping Luo | 11:30-12pm (about 23minutes talk, 7mininutes Q&A) |
+| [Dynamic Quantization for Deep Neural Network](https://icml.cc/virtual/2021/poster/8827) | Speaker: Dr. Ping Luo | 11:30-12pm (about 23minutes talk, 7mininutes Q&A) |
 | [Deep Pulse Neural Network Training Algorithms based on Parameter Initilization](https://drive.google.com/file/d/1QGEKj2GXJJo-ohL7uHy4M2WcUSwvBeIY/view?usp=sharing) | Speaker: Dr. Ruizhi Chen | 12-12:30pm (about 23minutes talk, 7mininutes Q&A) |
 | [Real-world X-ray Security Inspection](https://drive.google.com/file/d/1-9kpnGo64G_UhUDSs-bfl-PqR4Ebe7A_/view?usp=sharing) | Speaker: Phd. Boying Wang (PhD student of Dr. Yanjun Wu) | 12:30-1pm (about 23minutes talk, 7mininutes Q&A) |
 | <b> Session 2: IOT & Robotics & NLP (2pm - 4:30pm)</b> | <b>Session co-chairs (HKU: Fanxin Li, Shengliang Deng; ISCAS: Heng Zhang, Libo Zhang)</b> |  |
@@ -21,7 +21,7 @@
 | Wireless AI for the Internet of Things | Speaker: Dr. Chenshu Wu | 4-4:30pm (about 23minutes talk, 7mininutes Q&A) |
 | <b>Session 3: System & Network & Software (4:30pm - 7pm)</b> | <b>Session co-chairs (HKU: Jianyu Jiang, Ji Qi; ISCAS: JingZheng Wu, Jiageng Yu)</b> |  |
 | [Open-source Software Supplychains and Key Security Technology Study](https://drive.google.com/file/d/1iWRU60bBl8bOV3TRYCqN6aw4QU5KJiV0/view?usp=sharing) | Speaker: Xu Duan (Master student of Dr. Jingzheng Wu) | 4:30-5pm (about 23minutes talk, 7mininutes Q&A) |
-| Near-optimal Topology-adaptive Parameter Synchronization in Distributed DNN Training | Speaker: Zhe Zhang (PhD student of Prof. Chuan Wu) | 5-5:30pm (about 23minutes talk, 7mininutes Q&A) |
+| [Near-optimal Topology-adaptive Parameter Synchronization in Distributed DNN Training](https://i.cs.hku.hk/~cwu/papers/zzhang-infocom21.pdf) | Speaker: Zhe Zhang (PhD student of Prof. Chuan Wu) | 5-5:30pm (about 23minutes talk, 7mininutes Q&A) |
 | [BigDataBench: Benchmarking, Measuring, and Optimizing](https://drive.google.com/file/d/1ei4Iu8m_znVCZjs3Fts8FH-VOTga7_S3/view?usp=sharing) | Speaker: Dr. Chen Zheng | 5:30-6pm (about 23minutes talk, 7mininutes Q&A) |
 | [OpenHarmony for RISC-V](https://drive.google.com/file/d/1UY6dWhkN3Unkbq3lR2luYqudw4PMoKnc/view?usp=sharing) | Speaker: Yang Tai | 6-6:30pm (about 23minutes talk, 7mininutes Q&A) |
 | [Achieving Low Tail-latency and High Scalability for Serializable Transactions in Edge Computing](https://drive.google.com/file/d/1t1-A48puRb9h7mEX1QSR0tOJcuvQh36B/view?usp=sharing) | Speaker: Haoze Song (MPhil student of Heming Cui) | 6:30-7pm (about 23minutes talk, 7mininutes Q&A) |
