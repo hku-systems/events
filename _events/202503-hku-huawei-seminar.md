@@ -2,11 +2,9 @@
 layout: page
 title: "HKU-Huawei Joint Research Seminar on Computing"
 description: " "
-date: 2025-03-01
+date: 2025-03-27
 hide_header: true
 ---
-
-# HKU-Huawei Joint Research Seminar on Computing
 
 |                                             Event and Title                                              |          Speaker           | Estimated Time Period |
 | :------------------------------------------------------------------------------------------------------: | :------------------------: | :-------------------: |
