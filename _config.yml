@@ -2,6 +2,7 @@ layout: page
 title: "HKU Systems Group Events"
 description: "Collection of events and seminars hosted by HKU Systems Group"
 permalink: /
+baseurl: "/events"
 
 lsi: false
 safe: true
