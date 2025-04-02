@@ -1,7 +1,7 @@
 title: "HKU Systems Group Events"
 description: "Collection of events and seminars hosted by HKU Systems Group"
-baseurl: ""
-url: "https://hku-systems.github.io/events"
+baseurl: "/events"
+url: "https://hku-systems.github.io"
 
 markdown: kramdown
 theme: jekyll-theme-cayman

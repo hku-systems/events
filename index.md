@@ -9,5 +9,5 @@ Welcome to the events page of the HKU Systems Group. Here you can find informati
 
 ## Seminars
 
-- [HKU-Huawei Joint Research Seminar on Computing (March 27, 2025)](/events/seminars/202503-hku-huawei-seminar/)
-- [HKU ISCAS 2021 Launching Seminar and Workshop (September 28, 2021)](/events/seminars/iscas2021/)
+- [HKU-Huawei Joint Research Seminar on Computing (March 27, 2025)]({{ site.baseurl }}/seminars/202503-hku-huawei-seminar/)
+- [HKU ISCAS 2021 Launching Seminar and Workshop (September 28, 2021)]({{ site.baseurl }}/seminars/iscas2021/)
