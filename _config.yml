@@ -1,15 +1,23 @@
+layout: page
 title: "HKU Systems Group Events"
 description: "Collection of events and seminars hosted by HKU Systems Group"
+permalink: /
 baseurl: "/events"
-url: "https://hku-systems.github.io"
 
+lsi: false
+safe: true
+incremental: false
+highlighter: rouge
 markdown: kramdown
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
 theme: jekyll-theme-cayman
 
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - vendor
+github:
+  is_project_page: false
 
 include:
   - 202503-hku-huawei-seminar

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: "HKU Systems Group Events"
 ---
 

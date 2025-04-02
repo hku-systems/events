@@ -1,8 +1,9 @@
 ---
-layout: default
+layout: page
 title: "HKU ISCAS 2021"
 description: "Launching Seminar and Workshop Schedule (9.28 Tuesday)"
 date: 2021-09-28
+hide_header: true
 ---
 
 # HKU ISCAS 2021
