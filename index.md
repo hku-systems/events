@@ -1,11 +1,10 @@
 ---
-layout: page
-title: "HKU Systems Group Events"
+title: HKU Systems Group Events
 ---
 
 # HKU Systems Group Events
 
-Welcome to the events page of the HKU Systems Group. Here you can find information about past and upcoming events, seminars, and workshops.
+Welcome to the events page of the HKU Systems Group.
 
 ## Seminars
 

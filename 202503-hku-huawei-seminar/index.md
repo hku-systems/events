@@ -1,8 +1,6 @@
 ---
-layout: page
 title: "HKU-Huawei Joint Research Seminar on Computing"
 date: 2025-03-27
-hide_header: true
 ---
 
 # HKU-Huawei Joint Research Seminar on Computing

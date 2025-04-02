@@ -1,13 +1,6 @@
-layout: page
 title: "HKU Systems Group Events"
 description: "Collection of events and seminars hosted by HKU Systems Group"
-permalink: /
 baseurl: "/events"
-markdown: kramdown
 theme: jekyll-theme-cayman
 github:
   is_project_page: false
-
-include:
-  - 202503-hku-huawei-seminar
-  - iscas2021
