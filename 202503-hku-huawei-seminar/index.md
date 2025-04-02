@@ -1,11 +1,8 @@
 ---
 title: "HKU-Huawei Joint Research Seminar on Computing"
+description: "March 27, 2025"
 date: 2025-03-27
 ---
-
-# HKU-Huawei Joint Research Seminar on Computing
-
-Date: March 27, 2025
 
 |                                             Event and Title                                              |          Speaker           | Estimated Time Period |
 | :------------------------------------------------------------------------------------------------------: | :------------------------: | :-------------------: |

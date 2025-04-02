@@ -1,11 +1,8 @@
 ---
 title: "HKU ISCAS 2021"
-description: "Launching Seminar and Workshop Schedule (9.28 Tuesday)"
+description: "September 28, 2021"
 date: 2021-09-28
 ---
-
-# HKU ISCAS 2021
-## Launching Seminar and Workshop Schedule (September 28, 2021)
 
 | Event and Title | Note | Estimated Time Period |
 | :---: | :---: | :---: |
