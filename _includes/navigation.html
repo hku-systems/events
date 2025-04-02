@@ -1,0 +1,33 @@
+<nav class="site-nav">
+  <div class="nav-links">
+    <a href="/" {% if page.url == '/' %}class="active"{% endif %}>Home</a>
+    {% for event in site.events %}
+      <a href="{{ event.url }}" {% if page.url == event.url %}class="active"{% endif %}>{{ event.title | truncate: 30 }}</a>
+    {% endfor %}
+  </div>
+</nav>
+
+<style>
+  .site-nav {
+    margin-bottom: 20px;
+  }
+  .nav-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  .nav-links a {
+    padding: 5px 10px;
+    text-decoration: none;
+    background-color: #f0f0f0;
+    border-radius: 3px;
+    color: #333;
+  }
+  .nav-links a:hover {
+    background-color: #e0e0e0;
+  }
+  .nav-links a.active {
+    background-color: #4CAF50;
+    color: white;
+  }
+</style> 

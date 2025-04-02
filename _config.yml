@@ -1,8 +1,7 @@
 layout: page
-title: "HKU ISCAS 2021"
-description: "Launching Seminar and Workshop Schedule
-(9.28 Tuesday)"
-permalink: /events/hku-iscas-2021
+title: "HKU Systems Group Events"
+description: "Collection of events and seminars hosted by HKU Systems Group"
+permalink: /
 
 lsi: false
 safe: true
@@ -18,3 +17,8 @@ theme: jekyll-theme-cayman
 
 github:
   is_project_page: false
+
+collections:
+  events:
+    output: true
+    permalink: /events/:path/

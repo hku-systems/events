@@ -1,3 +1,10 @@
+---
+layout: page
+title: "HKU ISCAS 2021"
+description: "Launching Seminar and Workshop Schedule (9.28 Tuesday)"
+date: 2021-09-28
+hide_header: true
+---
 
 | Event and Title | Note | Estimated Time Period |
 | :---: | :---: | :---: |
@@ -8,13 +15,13 @@
 | Prof. Francis Lau's speech | Confirmed | About 5 to 6minutes |
 | Online Group Photo |  | About 2minutes |
 | <b>Session 1: AI & CV (10:30am - 1pm)</b> | <b> Session co-chairs (HKU: Yuhao Qing, Haowen Pi; ISCAS: Ling Li, Mingjie Xing) </b> |  |
-| [vPipe: A Virtualized Acceleration System for Achieving Efficient and Scalable Pipeline Parallel DNN Training](iscas2021/1-1-Shixiong%20Zhao.pptx) | Speaker: Shixiong Zhao (PhD student of Dr. Heming Cui) | 10:30-11am (about 23minutes talk, 7mininutes Q&A) |
-| [MLIR: Introduction, Practice, and Thoughts](iscas2021/1-2-Hongbin%20Zhang%20MLIR.pdf)) | Speaker: Hongbin Zhang (PhD student of Dr. Yanjun Wu) | 11-11:30am (about 23minutes talk, 7mininutes Q&A) |
+| [vPipe: A Virtualized Acceleration System for Achieving Efficient and Scalable Pipeline Parallel DNN Training](/iscas2021/1-1-Shixiong%20Zhao.pptx) | Speaker: Shixiong Zhao (PhD student of Dr. Heming Cui) | 10:30-11am (about 23minutes talk, 7mininutes Q&A) |
+| [MLIR: Introduction, Practice, and Thoughts](/iscas2021/1-2-Hongbin%20Zhang%20MLIR.pdf) | Speaker: Hongbin Zhang (PhD student of Dr. Yanjun Wu) | 11-11:30am (about 23minutes talk, 7mininutes Q&A) |
 | [Dynamic Quantization for Deep Neural Network](https://icml.cc/virtual/2021/poster/8827) | Speaker: Dr. Ping Luo | 11:30-12pm (about 23minutes talk, 7mininutes Q&A) |
 | [Deep Pulse Neural Network Training Algorithms based on Parameter Initilization](https://drive.google.com/file/d/1QGEKj2GXJJo-ohL7uHy4M2WcUSwvBeIY/view?usp=sharing) | Speaker: Dr. Ruizhi Chen | 12-12:30pm (about 23minutes talk, 7mininutes Q&A) |
 | [Real-world X-ray Security Inspection](https://drive.google.com/file/d/1-9kpnGo64G_UhUDSs-bfl-PqR4Ebe7A_/view?usp=sharing) | Speaker: Phd. Boying Wang (PhD student of Dr. Yanjun Wu) | 12:30-1pm (about 23minutes talk, 7mininutes Q&A) |
 | <b> Session 2: IOT & Robotics & NLP (2pm - 4:30pm)</b> | <b>Session co-chairs (HKU: Fanxin Li, Shengliang Deng; ISCAS: Heng Zhang, Libo Zhang)</b> |  |
-| [High Performance Computing Optimization for Open-source Chips and Co-processors](https://drive.google.com/file/d/1Gc0ngA-gOdAC6BCi815rXjBR7Eb4gtjk/view?usp=sharing)) | Speaker: Dr. Heng Zhang | 2-2:30pm (about 23minutes talk, 7mininutes Q&A) |
+| [High Performance Computing Optimization for Open-source Chips and Co-processors](https://drive.google.com/file/d/1Gc0ngA-gOdAC6BCi815rXjBR7Eb4gtjk/view?usp=sharing) | Speaker: Dr. Heng Zhang | 2-2:30pm (about 23minutes talk, 7mininutes Q&A) |
 | [Autononous robots: algorithms, mechanism, and sensors](https://drive.google.com/file/d/1LAKa05ZXbyE-Gox_2c8-Cp-srTEtjwxI/view?usp=sharing) | Speaker: Dr. Jia Pan | 2:30-3pm (about 23minutes talk, 7mininutes Q&A) |
 | [Robot Navigation in Unknown and Complex Environments](https://drive.google.com/file/d/1dviYJzMiqzMNH_HRD2cf-bTXtuy_UEEm/view?usp=sharing) | Speaker: Dr. Peng Li | 3-3:30pm (about 23minutes talk, 7mininutes Q&A) |
 | [Random Feature Attention](https://drive.google.com/file/d/1G961JMmNA2djsd0X6VPcVdjWgVZ2jLbL/view?usp=sharing) | Speaker: Dr. Lingpeng Kong | 3:30-4pm (about 23minutes talk, 7mininutes Q&A) |
